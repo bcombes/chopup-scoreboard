@@ -1,6 +1,6 @@
 {
     "name": "chopup-scoreboard"
-  , "version": "1.0.0"
+  , "version": "1.0.1"
   , "description": "Redis leaderboard for node.js - modified for chopup"
   , "keywords": ["redis", "leaderboard", "rank"]
   , "author": "Bayo Puddicombe <bayop@pledge51.com>"
